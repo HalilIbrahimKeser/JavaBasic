@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Documents\Dokumenter PC\My Office\Dataingeniør\Programmering\Java\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+528968944.index
+3450512575.index
+113558702.index
+322732100.index
+2371360231.index
+4247970152.index
+4200539505.index

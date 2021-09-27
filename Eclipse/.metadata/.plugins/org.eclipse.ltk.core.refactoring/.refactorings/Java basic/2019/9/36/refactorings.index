@@ -1,0 +1,4 @@
+1567633419266	Extract local variable 'b'
+1567633437339	Extract local variable 'c'
+1567633784166	Delete element
+1567638698081	Convert local variable 'input' to field

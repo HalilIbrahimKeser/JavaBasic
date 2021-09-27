@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kapittel10/Kapittel10.iml" filepath="$PROJECT_DIR$/Kapittel10/Kapittel10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kapittel11/Kapittel11.iml" filepath="$PROJECT_DIR$/Kapittel11/Kapittel11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kapittel12/Kapittel12.iml" filepath="$PROJECT_DIR$/Kapittel12/Kapittel12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kapittel6/Kapittel6.iml" filepath="$PROJECT_DIR$/Kapittel6/Kapittel6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kapittel7/Kapittel7.iml" filepath="$PROJECT_DIR$/Kapittel7/Kapittel7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kapittel8/Kapittel8.iml" filepath="$PROJECT_DIR$/Kapittel8/Kapittel8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Udemy/Udemy.iml" filepath="$PROJECT_DIR$/Udemy/Udemy.iml" />
+    </modules>
+  </component>
+</project>

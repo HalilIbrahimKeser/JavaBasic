@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb212cd0-c522-4c61-87bd-afe08320bc84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="39" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="false" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="false" />
+    <option name="GROUP_CONTENTS" value="true" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="true" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="InteliJ" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RvrjG3hgSaJBqOcylMzEj7v3ji" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="java.lang.Object" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Kapittel10/src/test" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/DiffMerge_4.2.0.697.stable_x64.msi" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Package1" />
+      <recent name="test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="java.lang.Object" />
+      <recent name="Package1.Clock" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Documents\Dokumenter PC\My Office\Dataingeniør\Programmering\Java\InteliJ\Kapittel8\src\Modul8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NumberOfDaysInMonth">
+    <configuration name="EqualityPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualityPrinter" />
+      <module name="Udemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYearCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeapYearCalculator" />
+      <module name="Udemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberInWord" />
+      <module name="Udemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfDaysInMonth" />
+      <module name="Udemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayingCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlayingCat" />
+      <module name="Udemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumberOfDaysInMonth" />
+        <item itemvalue="Application.LeapYearCalculator" />
+        <item itemvalue="Application.NumberInWord" />
+        <item itemvalue="Application.PlayingCat" />
+        <item itemvalue="Application.EqualityPrinter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,SHOW_PROPERTIES,SHOW_INHERITED,SHOW_ANONYMOUS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb212cd0-c522-4c61-87bd-afe08320bc84" name="Default Changelist" comment="" />
+      <created>1570558545633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570558545633</updated>
+      <workItem from="1570558583377" duration="134000" />
+      <workItem from="1570561735121" duration="5740000" />
+      <workItem from="1570634155308" duration="10746000" />
+      <workItem from="1570699967898" duration="40028000" />
+      <workItem from="1570777108361" duration="18924000" />
+      <workItem from="1570807090604" duration="4982000" />
+      <workItem from="1571584346388" duration="4715000" />
+      <workItem from="1571610421352" duration="302000" />
+      <workItem from="1571648763603" duration="28989000" />
+      <workItem from="1571704546819" duration="17744000" />
+      <workItem from="1571774898814" duration="52019000" />
+      <workItem from="1572024681606" duration="26159000" />
+      <workItem from="1572095153371" duration="6900000" />
+      <workItem from="1572103680402" duration="694000" />
+      <workItem from="1572114073731" duration="4499000" />
+      <workItem from="1573515510485" duration="551000" />
+      <workItem from="1573516133437" duration="3364000" />
+      <workItem from="1573520240141" duration="946000" />
+      <workItem from="1573521270918" duration="2793000" />
+      <workItem from="1573532477747" duration="4104000" />
+      <workItem from="1573614817934" duration="17997000" />
+      <workItem from="1573742155300" duration="16310000" />
+      <workItem from="1573841013583" duration="13679000" />
+      <workItem from="1573906732409" duration="15990000" />
+      <workItem from="1573926854699" duration="10069000" />
+      <workItem from="1573953898726" duration="8732000" />
+      <workItem from="1574185990433" duration="121000" />
+      <workItem from="1574189934828" duration="878000" />
+      <workItem from="1576950135520" duration="1893000" />
+      <workItem from="1577463160788" duration="860000" />
+      <workItem from="1577472486114" duration="4975000" />
+      <workItem from="1577559270030" duration="10004000" />
+      <workItem from="1577711195450" duration="13263000" />
+      <workItem from="1578147405896" duration="1268000" />
+      <workItem from="1578308752033" duration="1351000" />
+      <workItem from="1578317438158" duration="613000" />
+      <workItem from="1578337969545" duration="1437000" />
+      <workItem from="1578409375673" duration="392000" />
+      <workItem from="1578410546251" duration="1195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2329" y="493" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577463271087">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2329" y="493" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1577463271087" />
+    <state x="2415" y="445" key="FileChooserDialogImpl" timestamp="1578409764773">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2415" y="445" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1578409764773" />
+    <state width="1490" height="488" key="GridCell.Tab.0.bottom" timestamp="1577742407657">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1490" height="488" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1577742407657" />
+    <state width="1490" height="488" key="GridCell.Tab.0.center" timestamp="1577742407657">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1490" height="488" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1577742407657" />
+    <state width="1490" height="488" key="GridCell.Tab.0.left" timestamp="1577742407657">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1490" height="488" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1577742407657" />
+    <state width="1490" height="488" key="GridCell.Tab.0.right" timestamp="1577742407657">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1490" height="488" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1577742407657" />
+    <state width="1490" height="488" key="GridCell.Tab.1.bottom" timestamp="1577742407657">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1490" height="488" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1577742407657" />
+    <state width="1490" height="488" key="GridCell.Tab.1.center" timestamp="1577742407657">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1490" height="488" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1577742407657" />
+    <state width="1490" height="488" key="GridCell.Tab.1.left" timestamp="1577742407657">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1490" height="488" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1577742407657" />
+    <state width="1490" height="488" key="GridCell.Tab.1.right" timestamp="1577742407657">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1490" height="488" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1577742407657" />
+    <state x="790" y="451" key="NewModule_or_Project.wizard" timestamp="1578309674630">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="790" y="451" key="NewModule_or_Project.wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1578309674630" />
+    <state x="955" y="262" key="SettingsEditor" timestamp="1578309124653">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="955" y="262" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1578309124653" />
+    <state x="1881" y="191" width="722" height="802" key="com.intellij.ide.util.TipDialog" timestamp="1578409623981">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1881" y="191" width="722" height="802" key="com.intellij.ide.util.TipDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1578409623981" />
+    <state x="561" y="593" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576950279022">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="561" y="593" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.3440.1400@0.0.3440.1400" timestamp="1576950279022" />
+    <state x="1383" y="238" key="new project wizard" timestamp="1578409645100">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1383" y="238" key="new project wizard/0.0.3440.1400@0.0.3440.1400" timestamp="1578409645100" />
+    <state x="2327" y="336" key="run.anything.popup" timestamp="1577722774090">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2327" y="336" key="run.anything.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1577722774090" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Kapittel6/src/Demo.java</url>
+          <line>1</line>
+          <properties class="Demo" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Kapittel6/src/TilnarmetKvadratrot.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Kapittel6/src/GameOfCraps.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Udemy/src/PlayingCat.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/InteliJ$ReverserArrayInPlace.ic" NAME="ReverserArrayInPlace Coverage Results" MODIFIED="1573618712344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InteliJ$TestPassword.ic" NAME="TestPassword Coverage Results" MODIFIED="1573685625148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InteliJ$TriangleCreator.ic" NAME="TriangleCreator Coverage Results" MODIFIED="1573833715366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InteliJ$Password.ic" NAME="Password Coverage Results" MODIFIED="1573685426292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/InteliJ$ClockTest.ic" NAME="ClockTest Coverage Results" MODIFIED="1573613546913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
